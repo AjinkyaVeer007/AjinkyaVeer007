@@ -21,7 +21,7 @@
 - 👋 Hi, I’m Ajinkya Veer.
 - 👀 I’m Fontend Website Developer.
 - 🌱 I’m currently learning Full Stack Website Development
-- 📫 How to reach me @veerajikya1@gmail.com
+- 📫 How to reach me @veerajinkya1@gmail.com
 
 ---
 
