@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ajinkya-veer-0ba100238/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+  <a href="https://www.linkedin.com/in/ajinkya-veer-0ba100238/" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
   <a href="https://www.instagram.com/mr_aj_official_0106/" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </div>
 <div align="center">
