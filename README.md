@@ -14,8 +14,7 @@
 <img align="right" alt="GIF" width="350" height="350" src="https://media.giphy.com/media/xTiN0FXnoSlDhSjgR2/giphy.gif" />
 
 - 👋 Hi, I’m Ajinkya Veer.
-- 👀 I’m Fontend Website Developer.
-- 🌱 I’m currently learning Full Stack Website Development
+- 👀 I’m Full Stack Web Developer with expertise in Frontend developement.
 - 📫 How to reach me @veerajinkya1@gmail.com
 
 ---
